@@ -317,12 +317,20 @@ export default function Home() {
               <p className="text-sm font-semibold uppercase tracking-[0.18em] text-[#0f766e]">
                 Hair. Skin. Laser. Body positivity, always.
               </p>
-              <a
-                href="#services"
-                className="inline-flex rounded-full border border-[#1f2a2c33] bg-white/70 px-6 py-3 text-sm font-semibold text-[#1f2a2c] transition hover:bg-white"
-              >
-                Explore Services
-              </a>
+              <div className="flex flex-wrap gap-3">
+                <a
+                  href="#services"
+                  className="inline-flex rounded-full border border-[#1f2a2c33] bg-white/70 px-6 py-3 text-sm font-semibold text-[#1f2a2c] transition hover:bg-white"
+                >
+                  Explore Services
+                </a>
+                <a
+                  href="#booking"
+                  className="inline-flex rounded-full bg-[#0f766e] px-6 py-3 text-sm font-semibold text-white transition hover:bg-[#0d5f58]"
+                >
+                  Book Now
+                </a>
+              </div>
             </div>
 
             <div className="grid gap-4">
@@ -514,26 +522,30 @@ export default function Home() {
                   href="https://wa.me/917317637755?text=Hi%20Glowo%20Aesthetics%2C%20I%20want%20to%20book%20an%20appointment."
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-block rounded-full border border-[#0f766e33] bg-white px-4 py-2 text-sm font-semibold text-[#0f766e] hover:bg-[#eff8f5]"
+                  className="inline-flex items-center gap-2 rounded-full border border-[#0f766e33] bg-white px-4 py-2 text-sm font-semibold text-[#0f766e] hover:bg-[#eff8f5] transition"
                 >
+                  💬
                   WhatsApp: Book Directly
                 </a>
                 <a
                   href="tel:+917317637755"
-                  className="inline-block rounded-full border border-[#1f2a2c22] bg-white px-4 py-2 text-sm font-semibold text-[#1f2a2c] hover:bg-[#f8fbfa]"
+                  className="inline-flex items-center gap-2 rounded-full border border-[#1f2a2c22] bg-white px-4 py-2 text-sm font-semibold text-[#1f2a2c] hover:bg-[#f8fbfa] transition"
                 >
+                  📞
                   Call Now
                 </a>
+                <a
+                  href="https://www.instagram.com/_glowoaesthetics?utm_source=qr"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 rounded-full border border-[#d8a5d833] bg-white px-4 py-2 text-sm font-semibold text-[#d8a5d8] hover:bg-[#fdf8fd] transition"
+                >
+                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.204-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.015-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zM5.838 12a6.162 6.162 0 1 1 12.324 0 6.162 6.162 0 0 1-12.324 0zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm4.965-10.322a1.44 1.44 0 1 1 2.881.001 1.44 1.44 0 0 1-2.881-.001z"/>
+                  </svg>
+                  @_glowoaesthetics
+                </a>
               </div>
-
-              <a
-                href="https://www.instagram.com/_glowoaesthetics?utm_source=qr"
-                target="_blank"
-                rel="noreferrer"
-                className="mt-3 block text-sm font-medium text-[#2e4144] hover:text-[#0f766e]"
-              >
-                Instagram: _glowoaesthetics
-              </a>
             </div>
 
             <div className="rounded-2xl border border-[#d8e5e0] bg-white/60 p-5 sm:p-6">
@@ -545,6 +557,14 @@ export default function Home() {
                 Next to SBI Bank Singasandra Branch
               </p>
               <p className="mt-2 text-sm font-medium text-[#2f4447]">Walk-ins are welcome.</p>
+              <a
+                href="https://www.google.com/maps/place/Metro+tech+-+Car+Accessories/@12.8851746,77.642628,21z/data=!4m10!1m2!2m1!1smetrotech!3m6!1s0x3bae15d34fbfffd5:0xa4f5f028fad3d0c0!8m2!3d12.8850738!4d77.6427367!15sCgltZXRyb3RlY2haCyIJbWV0cm90ZWNokgEMbWFudWZhY3R1cmVy4AEA!16s%2Fg%2F11yp46wb5t?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+                target="_blank"
+                rel="noreferrer"
+                className="mt-4 inline-flex items-center gap-2 rounded-lg border border-[#0f766e] bg-[#0f766e] px-4 py-2 text-sm font-semibold text-white hover:bg-[#0d5f57] transition"
+              >
+                📍 View on Google Maps
+              </a>
             </div>
           </div>
         </div>
