@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Women Services Placeholder</title>
+  <desc id="desc">Placeholder visual for women's section</desc>
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#f8e1dc"/><stop offset="100%" stop-color="#f2e8f6"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="url(#g)"/>
+  <circle cx="220" cy="230" r="170" fill="#ffffff88"/>
+  <text x="120" y="740" font-size="96" font-family="Georgia, serif" fill="#7b2a4f">WOMEN'S CARE</text>
+</svg>

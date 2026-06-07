@@ -1,0 +1,314 @@
+{
+  "women": [
+    {
+      "categoryName": "Laser",
+      "categoryImagePath": "/artifacts/service-catalog/categories/laser.svg",
+      "services": [
+        {
+          "serviceName": "Laser Hair Reduction",
+          "description": "Advanced laser sessions for smoother skin and long-term reduction.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Aloe Laser Reduction",
+          "description": "Comfort-focused aloe-assisted laser protocol.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        },
+        {
+          "serviceName": "Carbon Laser Peel",
+          "description": "Detoxifying laser peel to refresh tone and texture.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2500
+        },
+        {
+          "serviceName": "Acne Scar Laser",
+          "description": "Laser correction protocol for acne scar texture concerns.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        },
+        {
+          "serviceName": "Laser Skin Resurfacing",
+          "description": "Resurfacing therapy for smoother and brighter skin appearance.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "HIFU",
+          "description": "Non-surgical lift and contour support using focused ultrasound.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        }
+      ],
+      "categoryDescription": "Laser treatments designed for visible, comfortable progress."
+    },
+    {
+      "categoryName": "Skin",
+      "categoryImagePath": "/artifacts/service-catalog/categories/skin.svg",
+      "services": [
+        {
+          "serviceName": "Toning",
+          "description": "Skin tone balancing session for clarity and glow.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Micro Needling",
+          "description": "Collagen-support treatment for texture and pore refinement.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "Micro Needling + PRP",
+          "description": "Combined regeneration protocol for enhanced recovery and radiance.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        },
+        {
+          "serviceName": "Mole Removal",
+          "description": "Consult-led removal service for selected benign lesions.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 400
+        },
+        {
+          "serviceName": "Stretch Mark Removal",
+          "description": "Texture-focused correction plan for stretch mark visibility.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "Warts Removal",
+          "description": "Clinical wart removal with safety-first protocols.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 500
+        },
+        {
+          "serviceName": "Chemical Peels",
+          "description": "Exfoliation-led glow reset to improve texture and tone.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Yellow Peel",
+          "description": "Targeted peel option for dullness and uneven appearance.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        },
+        {
+          "serviceName": "Hydrafacial",
+          "description": "Hydration and deep-clean facial ritual for instant freshness.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "BB Glow",
+          "description": "Tone-evening treatment for dewy, camera-ready finish.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "Anti Ageing",
+          "description": "Age-support routine focused on firmness and smooth texture.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2500
+        },
+        {
+          "serviceName": "Face Tightening",
+          "description": "Firmness enhancement treatment for lifted facial contours.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        }
+      ],
+      "categoryDescription": "Comfort-first skin protocols for confidence and consistency."
+    },
+    {
+      "categoryName": "Regrowth",
+      "categoryImagePath": "/artifacts/service-catalog/categories/regrowth.svg",
+      "services": [
+        {
+          "serviceName": "QR678 Treatment",
+          "description": "Growth-factor based support plan for hair health goals.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        },
+        {
+          "serviceName": "Hair PRP",
+          "description": "PRP-supported scalp protocol for density-focused care.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 6000
+        },
+        {
+          "serviceName": "Hair GFC",
+          "description": "Growth factor concentrate session for scalp revitalization.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        },
+        {
+          "serviceName": "Face PRP",
+          "description": "PRP-based rejuvenation for skin quality enhancement.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Face GFC",
+          "description": "GFC facial support for collagen-friendly skin recovery.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        }
+      ],
+      "categoryDescription": "Regrowth therapies focused on sustainable, guided outcomes."
+    },
+    {
+      "categoryName": "Wellness",
+      "categoryImagePath": "/artifacts/service-catalog/categories/wellness.svg",
+      "services": [
+        {
+          "serviceName": "Glutathione IV",
+          "description": "IV wellness support designed for brightening and recovery goals.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        }
+      ],
+      "categoryDescription": "Supportive wellness protocols for balance and vitality."
+    },
+    {
+      "categoryName": "Packages",
+      "categoryImagePath": "/artifacts/service-catalog/categories/packages.svg",
+      "services": [
+        {
+          "serviceName": "Bridal Package",
+          "description": "Customized bridal treatment schedule aligned to event timeline.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 10000
+        }
+      ],
+      "categoryDescription": "Personalized bundled plans for milestone-ready confidence."
+    }
+  ],
+  "men": [
+    {
+      "categoryName": "Laser",
+      "categoryImagePath": "/artifacts/service-catalog/categories/laser.svg",
+      "services": [
+        {
+          "serviceName": "Laser Hair Reduction",
+          "description": "Advanced laser sessions for smoother skin and long-term reduction.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Aloe Laser Reduction",
+          "description": "Comfort-focused aloe-assisted laser protocol.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        },
+        {
+          "serviceName": "Carbon Laser Peel",
+          "description": "Detoxifying laser peel to refresh tone and texture.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2500
+        },
+        {
+          "serviceName": "Acne Scar Laser",
+          "description": "Laser correction protocol for acne scar texture concerns.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 4000
+        },
+        {
+          "serviceName": "Laser Skin Resurfacing",
+          "description": "Resurfacing therapy for smoother and brighter skin appearance.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "HIFU",
+          "description": "Non-surgical lift and contour support using focused ultrasound.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        }
+      ],
+      "categoryDescription": "Laser treatments designed for visible, comfortable progress."
+    },
+    {
+      "categoryName": "Skin",
+      "categoryImagePath": "/artifacts/service-catalog/categories/skin.svg",
+      "services": [
+        {
+          "serviceName": "Toning",
+          "description": "Skin tone balancing session for clarity and glow.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Micro Needling",
+          "description": "Collagen-support treatment for texture and pore refinement.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        },
+        {
+          "serviceName": "Mole Removal",
+          "description": "Consult-led removal service for selected benign lesions.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 400
+        },
+        {
+          "serviceName": "Warts Removal",
+          "description": "Clinical wart removal with safety-first protocols.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 500
+        },
+        {
+          "serviceName": "Chemical Peels",
+          "description": "Exfoliation-led glow reset to improve texture and tone.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Hydrafacial",
+          "description": "Hydration and deep-clean facial ritual for instant freshness.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        }
+      ],
+      "categoryDescription": "Comfort-first skin protocols for confidence and consistency."
+    },
+    {
+      "categoryName": "Regrowth",
+      "categoryImagePath": "/artifacts/service-catalog/categories/regrowth.svg",
+      "services": [
+        {
+          "serviceName": "QR678 Treatment",
+          "description": "Growth-factor based support plan for hair health goals.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        },
+        {
+          "serviceName": "Hair PRP",
+          "description": "PRP-supported scalp protocol for density-focused care.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 6000
+        },
+        {
+          "serviceName": "Hair GFC",
+          "description": "Growth factor concentrate session for scalp revitalization.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 5000
+        },
+        {
+          "serviceName": "Face PRP",
+          "description": "PRP-based rejuvenation for skin quality enhancement.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 2000
+        },
+        {
+          "serviceName": "Face GFC",
+          "description": "GFC facial support for collagen-friendly skin recovery.",
+          "imagePath": "/artifacts/service-catalog/services/placeholder.svg",
+          "price": 3000
+        }
+      ],
+      "categoryDescription": "Regrowth therapies focused on sustainable, guided outcomes."
+    }
+  ]
+}
